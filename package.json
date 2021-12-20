@@ -1,0 +1,21 @@
+{
+  "name": "@etcpack/style-loader",
+  "version": "0.1.0",
+  "description": "📦 使得css在浏览器中生效的loader，导入的文本应该是css文件",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etcpack/style-loader.git"
+  },
+  "keywords": [
+    "etcpack",
+    "plain",
+    "loader"
+  ],
+  "author": "你好2007",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etcpack/style-loader/issues"
+  },
+  "homepage": "https://github.com/etcpack/style-loader#readme"
+}
