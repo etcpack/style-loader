@@ -78,7 +78,7 @@ window.__etcpack__bundleSrc__['1']=function(){
     var __etcpack__scope_args__;
     var styleElement = document.createElement('style');
 var head = document.head || document.getElementsByTagName('head')[0];
-styleElement.innerHTML = 'body {\n    background-color: red;\n}\n';
+styleElement.innerHTML = "body {\n    background-color: red;\n    background-image: url(\"./1.png\");\n}\n";
 styleElement.setAttribute('type', 'text/css');head.appendChild(styleElement);
   
     return __etcpack__scope_bundle__;

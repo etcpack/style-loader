@@ -1,6 +1,6 @@
 {
   "name": "@etcpack/style-loader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "📦 使得css在浏览器中生效的loader，导入的文本应该是css文件",
   "main": "src/index.js",
   "repository": {
